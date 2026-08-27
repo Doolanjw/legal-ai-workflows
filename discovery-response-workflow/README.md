@@ -105,8 +105,9 @@ it is checking.
 5. The [case materials](case/) last, if you want to see the world the
    workflow ran against.
 
-A recorded walkthrough of the workflow is in production; the link
-will appear here.
+**Recorded walkthrough (9 minutes):** the author walks the full
+workflow on these artifacts, traps and all:
+[youtu.be/UjKrFztOvA8](https://youtu.be/UjKrFztOvA8)
 
 ## Provenance and disclaimer
 

@@ -21,6 +21,8 @@ protocols and deterministic verification. Four failure traps were
 planted in the case materials by design; the corpus also contains a
 deliberately naive baseline draft for contrast.
 
+**Recorded walkthrough (9 minutes):** [youtu.be/UjKrFztOvA8](https://youtu.be/UjKrFztOvA8)
+
 The numbers, each verifiable in the artifacts:
 
 | Measure | Result |
